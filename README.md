@@ -1,9 +1,8 @@
-# [Your Name]
-[Your Address]  
-[City, State, Zip]  
-[Phone Number]  
-[Email Address]  
-[LinkedIn Profile](Your-LinkedIn-URL)  
+# Kevin DeBacker
+_Hello_ Hi **There**
+ 
+krdebacker@gmail.com  
+[LinkedIn Profile](https://www.linkedin.com/in/kevindebacker)  
 [Portfolio URL](Your-Portfolio-URL)
 
 ## Objective
@@ -15,12 +14,12 @@ through innovative design solutions at Wpromote.
 
 ### Product Designer | [Current or Most Recent Company Name]
 **[City, State] — [Years Worked, e.g., 2023-Present]**
-- Spearheaded the design of an AI-driven marketing platform, focusing on simplifying complex functionalities into 
+1. Spearheaded the design of an AI-driven marketing platform, focusing on simplifying complex functionalities into 
 user-friendly interfaces.
-- Collaborated closely with product management and engineering teams to ensure the seamless integration of design and 
+1. Collaborated closely with product management and engineering teams to ensure the seamless integration of design and 
 technical capabilities.
-- Conducted comprehensive user research and usability testing to validate designs and refine user interfaces.
-- Developed and maintained robust design systems to ensure consistency and scalability across multiple platforms.
+1. Conducted comprehensive user research and usability testing to validate designs and refine user interfaces.
+2. Developed and maintained robust design systems to ensure consistency and scalability across multiple platforms.
 
 ### UX Designer | T.H.E. Equine Edge
 **[City, State] — [Years Worked, e.g., 2023-2024]**
